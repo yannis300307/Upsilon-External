@@ -20,5 +20,6 @@ angular.module('nwas').service('apps', function() {
     { name: "HoldemPoker", description: {en: "A Texas Hold'em Poker Game", fr: "Un jeu de Texas Hold'em"} },
     { name: "Chess", description: {en: "Chess Game", fr: "Jeu d'échecs"} },
     { name: "Video", description: {en: "Play mjpeg videos", fr: "Lisez des vidéos mjpeg"} },
+    { name: "Numcraft", description: {en: "A 3D cube sandbox game", fr: "Un jeu bac à sable avec des cubes en 3D"} },
   ];
 });
